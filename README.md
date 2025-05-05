@@ -10,7 +10,7 @@ Since the goal of the Knowledge Hub is to provide information to potential prosu
 ## **Physical operation**
 In the H-HOPE project, the energy harvester is designed to convert water energy into mechanical motion, and then into electricity. To understand the resulting design of the H-HOPE harvester, the system needs to be simplified into a basic mechanical model, properly representing the mechanical behaviour of the harvester: a mass (m) attached to a spring (k) and a damper (c), as shown in Figure 8. The cylinder (represented by a grey box in Figure 1), free to oscillate in a direction y normal to the water flow, is attached to a spring with spring constant k, and damped by the induction generator or frictional forces (c).
  <div align="center">
-<img src="./images/Picture1.png" alt="drawing" width="450"/>
+<img src="./images/Picture1.png" alt="drawing" width="350"/>
 
 Figure 1. Scheme of the simplified mechanical model for representing the H-HOPE harvester.</div>
 

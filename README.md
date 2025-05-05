@@ -37,3 +37,7 @@ To transfer motion to the induction generator, two vertical rods (E in Figure 9)
 Figure 2. Possible H-Hope Harvester mechanical design. The indicated parts are: A) cylinder with connecting adapter (green part), B) return spring, C) preloading mechanism for the return spring, D) mechanical support, E) connecting rod, F) rotor, G) flywheel, H) bearings and I) shaft.  The Figure is shown for the DIY harvester with cylinder diameter D=60 mm and cylinder length l=250 mm.</div>
 
 All components are mounted on a modular aluminium frame, whose elements are secured with bolts, washers, and nuts. The frame provides a straightforward method for mounting the harvester to channel walls, though users may need to adapt the design to suit specific installation conditions.
+
+<div align="center">
+<img src="/images/H-HOPE_footer.JPG" alt="drawing" width="1472"/>
+</div>

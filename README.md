@@ -3,9 +3,6 @@
 </div>
 
 # H-HOPE DIY energy harvester mechanical design
-As previously discussed, the goal of the **WP8 work package of the H-Hope project** was to develop a VIV energy harvester that is easy to build, functional, and reliable using DIY and additive manufacturing methods. This section will focus on the mechanical part of the DIY energy harvester in the H-Hope project aimed at converting the water flow energy through the cylinder oscillating movement into the mechanical energy of a the rotating or oscillating shaft. 
-
-Since the goal of the Knowledge Hub is to provide information to potential prosumers, in the following sub-sections, the mechanical operation and a possible design will be explained. **We must note once again that this is not the final design of the H-Hope DIY energy harvester, as this will be published in the deliverable D8.3.**
 
 ## **Physical operation**
 In the H-HOPE project, the energy harvester is designed to convert water energy into mechanical motion, and then into electricity. To understand the resulting design of the H-HOPE harvester, the system needs to be simplified into a basic mechanical model, properly representing the mechanical behaviour of the harvester: a mass (m) attached to a spring (k) and a damper (c), as shown in Figure 1. The cylinder (represented by a grey box in Figure 1), free to oscillate in a direction y normal to the water flow, is attached to a spring with spring constant k, and damped by the induction generator or frictional forces (c).

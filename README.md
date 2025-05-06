@@ -12,7 +12,7 @@ In the H-HOPE project, the energy harvester is designed to convert water energy 
 Figure 1. Scheme of the simplified mechanical model for representing the H-HOPE harvester.</div>
 
 As explained in the previous sections, the water flow creates a vortex shedding that push and pull on the cylinder with lift force Fy generating an up and down movement. 
-This fluid-mechanical motion can be modelled according to the scheme in Figure 8:
+This fluid-mechanical motion can be modelled according to the scheme in Figure 1:
 -	the mass represents the cylinder (and nearby water) weight and inertia.
 -	the spring brings the cylinder back toward its starting point.
 -	the damper slows down its motion. For instance, the damping action can be provided by the induction generator braking or by the friction in the bearings.

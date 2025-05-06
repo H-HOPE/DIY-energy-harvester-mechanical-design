@@ -23,9 +23,9 @@ To do this, several important non-dimensional numbers have to be introduced:
 -	The Strouhal number relates to how often the vortices are created behind the object.
 -	The Reynolds number captures the flow characteristics depending on water speed, object size, and fluid properties.
 
----
+<hr>
 Designing the mechanical components of the harvester means adjusting properties like the cylinder size, shape, mass, and stiffness to achieve the lock-in condition under typical flow conditions.
----
+<hr>
 
 ## **Mechanical design of the H-Hope energy harvester**
 Starting from the principle of operation described in the previous sub-section and keeping in mind the DIY approach, the mechanical schematic design of the H-Hope DIY energy harvester has been developed and is shown in Figure 2. The oscillating cylinder (A) is mounted horizontally and supported on each end by horizontal springs (B) made from stainless steel rods of specific lengths and diameters. These springs constrain movement in the horizontal (flow) direction while allowing vertical oscillations. A spring preloading mechanism (C) adjusts the equilibrium position of the cylinder: lighter cylinders require less preload, while heavier ones (made from material with high density such as steel) require more preload to maintain the balance. The choice of the material depends on the flow characteristics since it affects the fluid-structure interaction. However, since all components, including the cylinder, are submerged, they have to be fabricated from water-resistant materials such as stainless steel or durable plastics to ensure longevity.
